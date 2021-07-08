@@ -4,6 +4,11 @@ Collection of Python code calling data from the Licensed Natural Health Products
 # Overview
 This collection of Python code allows the user to download the Licensed Natural Health Products Database published by Health Canada (https://health-products.canada.ca/api/documentation/lnhpd-documentation-en.html#a2.4)
 
+# Usage
+1. Download the desired .py files
+2. Run the .py file with Python 3
+3. Enjoy the newly created .csv file in the folder you ran #2.
+
 # Progress
 2021-07-07: Uploaded code for Medicinal Ingredients call
 
