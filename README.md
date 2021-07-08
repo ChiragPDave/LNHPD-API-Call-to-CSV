@@ -10,6 +10,7 @@ This collection of Python code allows the user to download the Licensed Natural 
 3. Enjoy the newly created .csv file in the folder you ran #2.
 
 # Progress
+2021-07-08 Updated scripts for all 7 APIs available from the LNH DB
 2021-07-07: Uploaded script for Medicinal Ingredients call
 
 # To Do
