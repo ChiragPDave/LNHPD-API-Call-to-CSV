@@ -4,7 +4,7 @@ import pandas as pd
 import csv
 import os
 
-link = 'nonmedicinalingredient?lang=en&type=json'
+link = 'nonmedicinalingredient?lang=Qen&type=json'
 csv_file = 'nonmedicinal_ingredients.csv'
 
 response_API = requests.get(f'https://health-products.canada.ca/api/natural-licences/{link}')
