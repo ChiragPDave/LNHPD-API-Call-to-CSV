@@ -2,7 +2,10 @@
 Collection of Python scripts calling data from the Licensed Natural Health Products Database API.
 
 # Overview
-This collection of Python scripts allows the user to download the Licensed Natural Health Products Database published by Health Canada (https://health-products.canada.ca/api/documentation/lnhpd-documentation-en.html#a2.4)
+This collection of Python scripts allows the user to download the Licensed Natural Health Products Database published by Health Canada (https://health-products.canada.ca/api/documentation/lnhpd-documentation-en.html)
+
+# Database Files
+Please see my Dropbox for downloaded results from the database (https://www.dropbox.com/sh/uqzdgb6ecvezoag/AABCdb2OCF6MO4m8s--d4q7Ga?dl=0)
 
 # Usage
 1. Download the desired .py files
